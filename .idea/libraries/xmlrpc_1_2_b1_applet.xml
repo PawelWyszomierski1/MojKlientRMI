@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="xmlrpc-1.2-b1-applet">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/xmlrpc-1.2-b1/xmlrpc-1.2-b1-applet.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/xmlrpc-1.2-b1/xmlrpc-1.2-b1.jar!/" />
+      <root url="file://$USER_HOME$/Desktop" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/ZTP3/src" />
+      <root url="file://$USER_HOME$/Desktop/Zad 1/projekt/SI_2/src" />
+      <root url="file://$USER_HOME$/Desktop" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop" recursive="false" type="SOURCES" />
+  </library>
+</component>
